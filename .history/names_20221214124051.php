@@ -1,5 +1,5 @@
 <?php
-$names=['james','elsy', 'jesly','rob','anish','anish','navya'];
+$names=['james','elsy', 'jesly','rob','anish',''];
 ?>
 
 
