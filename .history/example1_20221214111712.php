@@ -22,7 +22,7 @@
             ?>
             <br><br>
         
-            <h1>this is onther example</h1>
+            <h1>this is onther example</hi>
 <?php 
 
 echo "Complete <strong>Portal</strong> for Geeks."
