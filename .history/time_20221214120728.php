@@ -7,9 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <?=  date('h:i:s A') ?>
+    <?=
 
-  
+    date('h:i:s A') ?>
    
 </body>
 </html>

@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?=  date('h:i:s A') ?>
+    <?=
 
   
    
