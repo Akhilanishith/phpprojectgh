@@ -5,7 +5,7 @@
 <head>
     <style>
         h1 {
-            color: red;
+            color: green;
         }
     </style>
 </head>
@@ -20,18 +20,6 @@
             echo "This is PHP code inside html";
             
             ?>
-            <br><br>
-        
-            <hi>this is onther example</hi>
-<?php 
-
-echo "Complete <strong>Portal</strong> for Geeks."
-?>
-        <br><br>
-        <?php
-        echo 'Explore, learn and grow.'
-        ?>
-        </p>
         </h2>
     </center>
 </body>
